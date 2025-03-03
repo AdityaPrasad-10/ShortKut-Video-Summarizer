@@ -7,7 +7,7 @@ This project is a YouTube video summarizer built using React and TypeScript. It 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Akshay-Rahul/ShortKut
+   git clone https://github.com/AdityaPrasad-10/ShortKut
    ```
 
 2. **Navigate to the project directory:**
